@@ -16,6 +16,6 @@ study_data_analytics > db.mycollection.updateOne({name:"Alice"},{$set: {age:26}}
 *몽고db만의 약속어(명령어) 앞에는 $ 표시를 해줌
 
 # 기존 테이블에 컬럼을 추가할 경우
-- 각 row의 where을 적고 값을 넣어줘야 함.(For문을 row수만큼 돌려줘야 함)
+- 각 row마다 일일히 값을 넣어줘야 함.(For문을 row수만큼 돌려줘야 함)
 - (예) Alice라는 컬럼을 찾아서 새로운 컬럼의 값을 넣어줌.
--->
+--> for문을 계속 돌리는 것보다 컬럼이 추가된 것을 새로운 collection을 만들어서 넣어주는 게 빠르다 
