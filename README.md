@@ -70,7 +70,51 @@
 |데이터 구조(Data Frame, Series)|[begginners](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/begginners.ipynb)|
 |날짜형데이터(datetime)|[DeliveryList_TimeSeries](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/DeliveryList_TimeSeries.ipynb)|
 |전처리(결측치, 이상치)|[preprocess](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/preprocess.ipynb)|
-|apply(),regexpress(정규식)|[begginners.py]([https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/begginners.ipynb](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/begginners.py)|
+|apply(),regexpress(정규식)|[begginners.py](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/begginners.py)|
 |시각화 분석 접근 방식|[ResurrenceOfSurgery_TimeSeries](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/ResurrenceOfSurgery_TimeSeries.ipynb)|
 
-### ✅Pandas
+### ✅ 데이터 수집 Gathering Datas
+|차이점|MongoDB|MySQL|
+|---|---|---|
+|데이터<br>모델|-NoSQL 데이터베이스<br>-문서 형태로 데이터를 저장합니다. 문서는 JSON 스타일의 BSON(Binary JSON) 형태로 저장|-관계형 데이터베이스(RDBMS)<br>-테이블 간의 관계를 기반으로 데이터를 저장|
+|스키마|동적 스키마를 가지고 있어 어떤 문서든지 필요에 따라 다른 구조를 가질 수 있음|고정된 스키마를 가지고 있어 데이터 구조가 사전에 정의되어야 함|
+|쿼리 언어|자체 쿼리 언어를 사용. 일반적으로는 JSON 형태로 쿼리를 작성|SQL(Structured Query Language)을 사용하여 쿼리|
+|관계|중첩된 문서나 참조를 사용하여 데이터를 관리|테이블 간의 관계를 사용하여 데이터를 조인|
+|확장성|수평 확장(Horizontal Scaling)이 일반적|수직 확장(Vertical Scaling)이 일반적|
+|용도|대용량의 비정형 데이터나 유연한 데이터 모델이 필요한 경우, 빠른 개발과 스키마의 변동이 잦은 경우에 적합|전통적인 업무 애플리케이션, 관계형 데이터베이스가 필요한 경우에 적합|
+
+- MySQL
+: 판다스를 사용하여 SQL 연결하기 - [selectsWithpandas.py](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/mysql/selectsWithpandas.py)
+
+- MongoDB
+
+|설명|작성|
+|---|---|
+|MongoDB연결|[NSC2_D20](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/mongodb/NSC2_D20.ipynb)|
+|MongoDB 명령어|[command.txt](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/mongodb/command.txt)|
+|py으로 MongoDB 업데이트|[updates.py](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/mongodb/updates.py)|
+|pandas로 MongoDB 업데이트|[updatewithpandas](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/mongodb/updatewithpandas.ipynb)|
+
+- Seleniums
+: 웹 페이지 자동화 및 테스트를 위한 프레임워크로, 브라우저를 제어하여 웹 애플리케이션을 자동으로 테스트하거나 데이터를 수집하는 데 사용
+: 이는 웹 크롤링과 웹 스크래핑 작업에서 유용하게 활용됩니다. 크롤링은 웹 페이지의 데이터를 수집하고, 스크래핑은 수집한 데이터에서 필요한 정보를 추출하는 작업을 의미
+
+|설명|작성|
+|---|---|
+|브라우저 열고 닫기, 스크린샷|[begginers](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/begginers.ipynb)|
+|하나 혹은 여러 개의 element 가져오기, list|[emartmalls_FindElement](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/emartmalls_FindElement.ipynb)|
+|pagination|[emartmalls_paginations](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/emartmalls_paginations.ipynb)|
+|로그인|[github_events_except](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/github_events_except.ipynb)|
+|loops|[googlestore_healthcare_loops](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/googlestore_healthcare_loops.ipynb)|
+|loops_for|[googlestore_healthcare_loops_complete](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/googlestore_healthcare_loops_complete.ipynb)|
+|추가 댓글 가져오기(클릭 or 마우스 스크롤)|[googlestore_healthcare_single](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/googlestore_healthcare_single.ipynb|
+
+
+### ✅시각화 visuallizations
+|설명|작성|
+|---|---|
+|시각화 기초|[simples](https://github.com/aabchyein/study_data_analystics/blob/main/codes/visuallizations/simples.ipynb)|
+|scatter plot(산점도)-두 변수간의 관계를 시각화|[classfications_scatter](https://github.com/aabchyein/study_data_analystics/blob/main/codes/visuallizations/classfications_scatter.ipynb)|
+|상위권 데이터 확인|[UsingCharts_TypeOfContractChannels_quests](https://github.com/aabchyein/study_data_analystics/blob/main/codes/visuallizations/UsingCharts_TypeOfContractChannels_quests.ipynb)|
+|단일변수,다변수 시각|[UsingCharts_TypeOfContractChannels](https://github.com/aabchyein/study_data_analystics/blob/main/codes/visuallizations/UsingCharts_TypeOfContractChannels.ipynb)|
+
