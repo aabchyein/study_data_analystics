@@ -51,7 +51,7 @@
 </details>
 
 ## 데이터 분석 공부
-#### 🔲사용기술
+#### <사용기술>
 <img src="https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=ANACONDA&logoColor=white"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white"> <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=SELENIUM&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white"> <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=MONGODB&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white"> <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=VISUAL STUDIO CODE&logoColor=white"> <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=JUPYTER&logoColor=white">
 ### ✅Pandas
 : 파이썬의 데이터 분석과 조작을 위한 라이브러리<br><br>
@@ -61,6 +61,16 @@
 - 데이터를 효과적으로 통합하거나 연관된 정보를 결합하는 데 유용
 - 데이터에서 누락된 값 또는 이상한 값들을 처리하고 정제하는 다양한 도구를 제공
 - 다양한 통계 및 집계 함수를 제공
-- 시각화 지
+- 시각화 지원
 - 유연성과 확장성 : 다양한 형태의 데이터를 처리할 수 있으며, 다른 라이브러리와 쉽게 통합
+
+|설명|작성|
+|---|---|
+|데이터 확인|[BreastCancerWisconsinDataSet](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/BreastCancerWisconsinDataSet.ipynb)|
+|데이터 구조(Data Frame, Series)|[begginners](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/begginners.ipynb)|
+|날짜형데이터(datetime)|[DeliveryList_TimeSeries](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/DeliveryList_TimeSeries.ipynb)|
+|전처리(결측치, 이상치)|[preprocess](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/preprocess.ipynb)|
+|apply(),regexpress(정규식)|[begginners.py]([https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/begginners.ipynb](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/begginners.py)|
+|시각화 분석 접근 방식|[ResurrenceOfSurgery_TimeSeries](https://github.com/aabchyein/study_data_analystics/blob/main/codes/pandass/ResurrenceOfSurgery_TimeSeries.ipynb)|
+
 ### ✅Pandas
