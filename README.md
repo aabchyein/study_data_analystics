@@ -107,8 +107,12 @@
 |로그인|[github_events_except](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/github_events_except.ipynb)|
 |loops|[googlestore_healthcare_loops](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/googlestore_healthcare_loops.ipynb)|
 |loops_for|[googlestore_healthcare_loops_complete](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/googlestore_healthcare_loops_complete.ipynb)|
-|추가 댓글 가져오기(클릭 or 마우스 스크롤)|[googlestore_healthcare_single](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/googlestore_healthcare_single.ipynb|
+|추가 댓글 가져오기(클릭 or 마우스 스크롤)|[googlestore_healthcare_single](https://github.com/aabchyein/study_data_analystics/blob/main/codes/gatheringdatas/seleniums/googlestore_healthcare_single.ipynb)|
 
+### ✅ 자연어 처리(Natural Language Processing)
+: 기계가 인간의 언어를 이해하고 처리하는 인공지능 분야. 자연어로 표현된 정보를 컴퓨터가 처리하고 분석하는 기술
+
+### ✅ 감성분석(Sentiment Analysis)
 
 ### ✅시각화 visuallizations
 |설명|작성|
