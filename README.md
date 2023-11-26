@@ -2,20 +2,20 @@
 <summary>Titanic From Disaster</summary>
 
 #### DDA (기술통계분석)
-| Variable | Definition | Key | 분석가 의견 |
-| --- | --- | --- | --- |
-| PassengerId | 승객 아이디 | | 수치형-이산형, 레코드 개수와 동일하기 때문에 분석에는 적당하지 않음 |
-| survived | Survival | 0 = No, 1 = Yes | 범주형-명목형, 죽거나 살거나 두가지로 분류됨 |
-| Pclass | Ticket class | 1 = 1st, 2 = 2nd, 3 = 3rd | 범주형-순서형, 티켓이 3개의 등급으로 분류됨 |
-| Name | Name | | 범주형-명목형, 확인 결과 승객이 고유한 이름을 가지고 있음 |
-| Sex | Sex | | 범주형-명목형, 확인 결과 male/female 두가지로 분류됨 |
-| Age | Age in years | | 수치형-이산형 |
-| Sibsp | # of siblings / spouses aboard the Titanic | | 수치형-이산형, 타이타닉에 동승한 형제/자매/배우자를 합친수로 각각 다른 값이 존재 |
-| Parch | # of parents / children aboard the Titanic | | 수치형-이산형, 타이타닉에 동승한 부모님과 자녀를 합친수로 각각 다른 값이 존재 |
-| Ticket | Ticket number | | 범주형-명목형, 탑승객마다 다른 티켓 번호를 가지고 있음 |
-| Fare | Passenger fare(운임) | | 수치형-이산형 |
-| Cabin | Cabin number(좌석번호) | | 범주형-명목형 |
-| Embarked | Port of Embarkation(승선 항) | C = Cherbourg, Q = Queenstown, S = Southampton | | 범주형-명목형 |
+| Variable | Definition | 분석가 의견 |
+| --- | --- | --- |
+| PassengerId | 승객 고유 식별 번호| 수치형-이산형, 레코드 개수와 동일하기 때문에 분석에는 적당하지 않음 |
+| survived | 생존여부( 0 = No, 1 = Yes ) | 범주형-명목형, 죽거나 살거나 두가지로 분류됨 |
+| Pclass | 선실 등급 ( 1 = 1st, 2 = 2nd, 3 = 3rd) | 범주형-순서형, 티켓이 3개의 등급으로 분류됨 |
+| Name | 승객 이름 | 범주형-명목형, 확인 결과 승객이 고유한 이름을 가지고 있음 |
+| Sex | 승객 성별 | 범주형-명목형, 확인 결과 male/female 두가지로 분류됨 |
+| Age | 승객 나이 | 수치형-이산형 |
+| Sibsp | 함께 탑승한 형제, 자매, 배우자의 수 | 수치형-이산형, 타이타닉에 동승한 형제/자매/배우자를 합친수로 각각 다른 값이 존재 |
+| Parch | 함께 탑승한 부모, 자녀의 수 | 수치형-이산형, 타이타닉에 동승한 부모님과 자녀를 합친수로 각각 다른 값이 존재 |
+| Ticket | 티켓 번호 | 범주형-명목형, 탑승객마다 다른 티켓 번호를 가지고 있음 |
+| Fare | 지불한 운임 비용 | 수치형-이산형 |
+| Cabin | 선실 번호 | 범주형-명목형 |
+| Embarked | 탑승한 항구(C = Cherbourg, Q = Queenstown, S = Southampton) | 범주형-명목형 |
 
 </details>
 
@@ -49,6 +49,6 @@
 <summary>다변수 검증 Flowchart</summary>
 
 ### ■ 다변수 검증 FlowChart
-![image](./images/혜인.drawio.png)
+![image](./images/HyeIn.drawio.png)
 
 </details>
