@@ -1,7 +1,7 @@
 <details>
-<summary>Titanic From Disaster</summary>
+<summary>Titanic From Disaster(타이타닉 참사)</summary>
 
-#### DDA (기술통계분석)
+  #### DDA (기술통계분석)
 | Variable | Definition | 분석가 의견 |
 | --- | --- | --- |
 | PassengerId | 승객 고유 식별 번호| 수치형-이산형, 레코드 개수와 동일하기 때문에 분석에는 적당하지 않음 |
@@ -20,7 +20,7 @@
 </details>
 
 <details>
-<summary>TypeOfContractChannel</summary>
+<summary>TypeOfContractChannel(계약 유형 채널)</summary>
 
 #### DDA (기술통계분석)
 | Variable | Definition | Key | 분석가 의견 |
@@ -46,9 +46,8 @@
 </details>
 
 <details>
-<summary>다변수 검증 Flowchart</summary>
+<summary><strong>다변수 검증 FlowChart</strong></summary>
 
-### ■ 다변수 검증 FlowChart
 ![image](./images/HyeIn.drawio.png)
-
 </details>
+
