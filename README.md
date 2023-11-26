@@ -118,12 +118,10 @@
 |불용어 처리|[tokenizers](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/tokenizers.ipynb)|
 |gensim을 통해 LDA|[LDA_gensim](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_gensim.ipynb)|
 |sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
-|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
-|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
-|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
-|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
-|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
-|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
+|최적의 토픽 단어수|[LDA_gensim_bestTopicnumber](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_gensim_bestTopicnumber.ipynb)|
+|한글 형태소 분석기(Okt,Mecab)|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/morpheme_analyzer.ipynb)|
+|LDA분석 및 시각화|[healthapp_review_LDA]([https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/healthapp_review_LDA.ipynb))|
+|전처리|[healthapp_review_preprocess](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/healthapp_review_preprocess.ipynb)|
 
 ### ✅ 감성분석(Sentiment Analysis)
 : 텍스트 데이터에서 긍정 또는 부정의 감정을 자동으로 분석하여 판별하는 자연어 처리 기술
@@ -132,12 +130,13 @@
 |설명|작성|
 |---|---|
 |감성 사전에 의한 감성분석|[sentiment_analyze_dictionary](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/sentiment_analyze_dictionary.ipynb)|
-|머신러닝에 의한 감성분|[sentiment_analyze_machinelearning](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/sentiment_analyze_machinelearning.ipynb)|
+|머신러닝에 의한 감성분석|[sentiment_analyze_machinelearning](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/sentiment_analyze_machinelearning.ipynb)|
 
 ### ✅시각화 visuallizations
 |설명|작성|
 |---|---|
 |시각화 기초|[simples](https://github.com/aabchyein/study_data_analystics/blob/main/codes/visuallizations/simples.ipynb)|
+|WorldCloud|[WordCloud_simple](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/WordCloud_simple.ipynb)|
 |scatter plot(산점도)-두 변수간의 관계를 시각화|[classfications_scatter](https://github.com/aabchyein/study_data_analystics/blob/main/codes/visuallizations/classfications_scatter.ipynb)|
 |상위권 데이터 확인|[UsingCharts_TypeOfContractChannels_quests](https://github.com/aabchyein/study_data_analystics/blob/main/codes/visuallizations/UsingCharts_TypeOfContractChannels_quests.ipynb)|
 |단일변수,다변수 시각|[UsingCharts_TypeOfContractChannels](https://github.com/aabchyein/study_data_analystics/blob/main/codes/visuallizations/UsingCharts_TypeOfContractChannels.ipynb)|
