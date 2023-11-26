@@ -111,8 +111,28 @@
 
 ### ✅ 자연어 처리(Natural Language Processing)
 : 기계가 인간의 언어를 이해하고 처리하는 인공지능 분야. 자연어로 표현된 정보를 컴퓨터가 처리하고 분석하는 기술
+- LDA는 토픽 모델링의 한 종류로, 문서 집합에서 주제를 추출하는 알고리즘입니다. 주어진 문서에서 단어들이 특정 주제에 속할 확률을 계산하여 각 문서의 주제 구조를 파악
+
+|설명|작성|
+|---|---|
+|불용어 처리|[tokenizers](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/tokenizers.ipynb)|
+|gensim을 통해 LDA|[LDA_gensim](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_gensim.ipynb)|
+|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
+|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
+|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
+|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
+|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
+|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
+|sklearn을 통해 LDA|[LDA_sklearn](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/LDA_sklearn.ipynb)|
 
 ### ✅ 감성분석(Sentiment Analysis)
+: 텍스트 데이터에서 긍정 또는 부정의 감정을 자동으로 분석하여 판별하는 자연어 처리 기술
+- 퀘스트 : [PDF](https://docs.google.com/presentation/d/1BfNmgq14D24HLPPGolin2gt4Hoos6WTu9MNxdGrjw6Q/edit?usp=sharing), [작성소스](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/navermovierating_mechinelearning_quest.ipynb)
+
+|설명|작성|
+|---|---|
+|감성 사전에 의한 감성분석|[sentiment_analyze_dictionary](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/sentiment_analyze_dictionary.ipynb)|
+|머신러닝에 의한 감성분|[sentiment_analyze_machinelearning](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/sentiment_analyze_machinelearning.ipynb)|
 
 ### ✅시각화 visuallizations
 |설명|작성|
