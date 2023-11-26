@@ -125,7 +125,7 @@
 
 ### ✅ 감성분석(Sentiment Analysis)
 : 텍스트 데이터에서 긍정 또는 부정의 감정을 자동으로 분석하여 판별하는 자연어 처리 기술
-- 퀘스트 : [PDF](https://docs.google.com/presentation/d/1BfNmgq14D24HLPPGolin2gt4Hoos6WTu9MNxdGrjw6Q/edit?usp=sharing), [작성소스](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/navermovierating_mechinelearning_quest.ipynb)
+- 퀘스트 : [PDF](https://drive.google.com/file/d/1lEA-XPyMCyWxtRzEb_srcvejXLcyCneO/view?usp=sharing), [작성소스](https://github.com/aabchyein/study_data_analystics/blob/main/codes/NLP/navermovierating_mechinelearning_quest.ipynb)
 
 |설명|작성|
 |---|---|
