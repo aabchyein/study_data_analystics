@@ -53,7 +53,7 @@
 ## 데이터 분석 공부
 #### <사용기술>
 <img src="https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=ANACONDA&logoColor=white"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white"> <img src="https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=SELENIUM&logoColor=white"> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white"> <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=MONGODB&logoColor=white"> <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white"> <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=VISUAL STUDIO CODE&logoColor=white"> <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=JUPYTER&logoColor=white">
-### ✅Pandas
+### ✅ Pandas
 : 파이썬의 데이터 분석과 조작을 위한 라이브러리<br><br>
 <판다스를 선택하는 이유>
 - 데이터를 다루기 쉬운 두 가지 기본 데이터 구조인 Series와 DataFrame을 제공
